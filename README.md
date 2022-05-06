@@ -4,11 +4,11 @@
 
 Berikut ini hasil programnya
 
-1. Tabel Member
+###1. Tabel Member
 
 ![image](https://user-images.githubusercontent.com/99308745/167141653-0e970439-47ad-4380-9297-5cbf4f16efcf.png)
 
-2. CRUD Member
+###2. CRUD Member
 
   -Add Member
   
@@ -19,7 +19,7 @@ Berikut ini hasil programnya
   ![edit hapus](https://user-images.githubusercontent.com/99308745/167144451-36770de6-465f-41d0-afb2-5359b89991a0.gif)
 
 
-3. Peminjaman
+###3. Peminjaman
   
   ![pinjam](https://user-images.githubusercontent.com/99308745/167144502-081e6ef5-bc03-4b84-a05b-1c2cd375e7e3.gif)
 
