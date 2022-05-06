@@ -40,6 +40,13 @@ if (!empty($_GET['id_edit'])) {
     header("location:peminjaman.php");
 }
 
+if (isset($_GET['id_hapus'])) {
+    //memanggil add
+    $id = $_GET['id_hapus'];
+
+    $Peminjaman->delete($id);
+    header("location:peminjaman.php");
+}
 $data = null;
 $dataMember = null;
 $dataBuku = null;
