@@ -86,9 +86,9 @@ if (isset($_GET['id_edit'])) {
                 <h2 class='card-title'>Edit Member : $nim</h2>
                     <form action='member.php?nim_edit=$nim&id_edit=$nim' method='POST'>
                         <div class='form-row'>
-                        <div class='form-group col' hidden>
+                        <div class='form-group col'>
                             <label for='nim'>nim</label>
-                            <input type='text' class='form-control' name='nim' value='$nim' />
+                            <input type='text' class='form-control' name='nim' value='$nim' readonly/>
                         </div>
                         </div>
 
